@@ -1,0 +1,8 @@
+GET http://localhost:8081/gms/records/lossrabate/page/index=1&size=10
+Content-Type: application/json
+Token: f6f9b45b-9aeb-4481-8e64-7db270c2fb39
+
+<> 2018-11-12T075520.200.json
+
+###
+

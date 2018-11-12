@@ -1,0 +1,14 @@
+POST http://localhost:8081/gms/records/test/conditon
+Content-Type: application/json
+Token: 0c1ddb72-6e36-47da-b914-b7abf594204b
+
+{
+  "pageIndex":1,
+  "pageSize":100,
+  "id":300001,
+  "stauts":1
+}
+<> 2018-11-12T075520.200.json
+
+###
+

@@ -1,0 +1,8 @@
+GET http://localhost:8081/gms/records/memberlogin/page/index=1&size=10
+Content-Type: application/json
+Token: 502eedf7-9b00-45ea-8c2f-a88bb20fd237
+
+<> 2018-11-12T075520.200.json
+
+###
+
