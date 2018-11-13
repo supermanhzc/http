@@ -1,0 +1,27 @@
+POST http://127.0.0.1:8081/gms/contentmgnt/announcement
+Accept: */*
+Content-Type: application/json
+Token: 7583d54d-792e-4164-8dd3-fd7036405376
+
+{
+	"title":"AAAA",
+	"sort":"1",
+	"content":"qqqqqq",
+	"createUser":1,
+	"createTime":"2018-11-06 15:27:43",
+	"updateUser":1,
+	"updateTime":"2018-11-06 15:30:44"
+}
+
+<> 2018-11-08T113823.200.json
+<> 2018-11-08T101904.200.json
+<> 2018-11-08T101650.200.json
+<> 2018-11-08T100300.200.json
+<> 2018-11-08T094722.200.json
+<> 2018-11-08T094358.200.json
+<> 2018-11-08T094149.200.json
+<> 2018-11-08T094053.200.json
+<> 2018-11-08T094033.200.json
+
+###
+

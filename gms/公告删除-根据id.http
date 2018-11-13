@@ -1,0 +1,7 @@
+DELETE http://127.0.0.1:8081/gms/contentmgnt/announcement/1
+Accept: */*
+Content-Type: application/json
+Token: f4682344-2dbb-4e89-a2c4-bb0068762d64
+
+###
+
