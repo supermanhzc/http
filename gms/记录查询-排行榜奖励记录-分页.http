@@ -1,7 +1,8 @@
 GET http://localhost:8081/gms/records/chartsrewards/page/index=1&size=10
 Content-Type: application/json
-Token: 5174ae82-108f-4eee-acb5-4264744cf260
+Token: 761c3fa2-eec4-4600-b34a-f0b53d15f276
 
+<> 2018-11-13T082752.200.json
 <> 2018-11-12T075520.200.json
 
 ###

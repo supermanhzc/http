@@ -1,0 +1,13 @@
+GET http://localhost:8081/gms/records/dailystatistic
+Content-Type: application/json
+Token: 9a7f1c28-3752-4b6a-b21e-332407bbc256
+
+<> 2018-11-13T095810.200.json
+<> 2018-11-13T094754.200.json
+<> 2018-11-13T094157.200.json
+<> 2018-11-13T093320.200.json
+<> 2018-11-13T092358.200.json
+<> 2018-11-12T075520.200.json
+
+###
+

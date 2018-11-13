@@ -1,0 +1,11 @@
+GET http://localhost:8081/gms/records/adminlogin/page/index=1&size=10
+Content-Type: application/json
+Token: f2ebd028-ff91-42cf-a0cd-b9f0550f52f9
+
+<> 2018-11-13T085044.200.json
+<> 2018-11-13T084237.200.json
+<> 2018-11-13T082804.200.json
+<> 2018-11-12T075520.200.json
+
+###
+

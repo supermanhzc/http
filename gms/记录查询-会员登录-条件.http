@@ -1,0 +1,28 @@
+POST http://localhost:8081/gms/records/memberlogintest
+Accept: */*
+Content-Type: application/json
+Token: 2a6fc429-c265-46a0-b6c2-cc0fc57ed5d9
+
+{
+//	    "pageIndex":1,
+     	"pageSize":15
+//     	"id":300002,
+//     	"name":"AAA",
+//     	"status":1
+}
+
+<> 2018-11-13T023006.200.json
+<> 2018-11-13T021655.200.json
+<> 2018-11-13T021621.200.json
+<> 2018-11-13T021449.200.json
+<> 2018-11-13T020907.200.json
+<> 2018-11-13T020000.200.json
+<> 2018-11-13T112655.200.json
+<> 2018-11-13T112019.200.json
+<> 2018-11-13T085035.200.json
+<> 2018-11-13T084224.200.json
+<> 2018-11-13T084144.200.json
+<> 2018-11-12T075520.200.json
+
+###
+

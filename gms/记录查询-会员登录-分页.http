@@ -1,7 +1,11 @@
-GET http://localhost:8081/gms/records/proxyopearte/page/index=1&size=10
+GET http://localhost:8081/gms/records/memberlogin/page/index=1&size=10
 Content-Type: application/json
-Token: ddd188f5-f6dc-445a-a769-71d6bcd8182f
+Token: b5d0a0b6-1b89-4a90-b478-16b883c81908
 
+<> 2018-11-13T112019.200.json
+<> 2018-11-13T085035.200.json
+<> 2018-11-13T084224.200.json
+<> 2018-11-13T084144.200.json
 <> 2018-11-12T075520.200.json
 
 ###
