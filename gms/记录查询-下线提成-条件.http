@@ -1,4 +1,4 @@
-POST http://localhost:8081/gms/records/salestatistic
+POST http://localhost:8081/gms/records/juniorcommission
 Accept: */*
 Content-Type: application/json
 Token: f74059a6-5773-485c-a941-df4960732ce6
@@ -6,8 +6,8 @@ Token: f74059a6-5773-485c-a941-df4960732ce6
 {
   "pageIndex":1,
   "pageSize":15,
-  "begin":"2018-11-11",
-  "end":"2018-11-19"
+  "id":300001,
+  "status":3
 }
 
 <> 2018-11-13T044042.200.json

@@ -1,6 +1,6 @@
 GET http://localhost:8081/gms/records/vchartsrewards/page/index=1&size=10
 Content-Type: application/json
-Token: 761c3fa2-eec4-4600-b34a-f0b53d15f276
+Token: f9c1b685-6d19-4579-9476-6fad56749d92
 
 <> 2018-11-13T082804.200.json
 <> 2018-11-12T075520.200.json

@@ -1,0 +1,11 @@
+POST http://localhost:8081/gms/records/chipinwage
+Accept: */*
+Content-Type: application/json
+Token: f74059a6-5773-485c-a941-df4960732ce6
+
+{
+	    "pageIndex":1,
+     	"pageSize":15
+}
+
+###
