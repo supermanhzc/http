@@ -1,0 +1,14 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": {
+    "id": 22,
+    "title": "AAAAAAAAAACCCCCCCCCA",
+    "sort": "1",
+    "content": "qqqqqq",
+    "createUser": 3,
+    "createTime": "2018-11-24 21:49:59",
+    "updateUser": null,
+    "updateTime": null
+  }
+}
