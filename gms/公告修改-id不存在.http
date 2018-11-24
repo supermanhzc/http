@@ -1,16 +1,12 @@
 PUT http://127.0.0.1:8081/gms/contentmgnt/announcement
 Accept: */*
 Content-Type: application/json
-Token: 60635f6c-f710-44e0-ac6f-3377697a3a94
+Token: ce53223f-52fa-4853-b4be-c24e721e9f94
 
 {
 	"title":"AAAAAAAAAACCCCCCCCCA",
 	"sort":"1",
-	"content":"qqqqqq",
-	"createUser":1,
-	"createTime":"2018-11-06 15:27:43",
-	"updateUser":1,
-	"updateTime":"2018-11-06 15:30:44"
+	"content":"qqqqqq"
 }
 
 <> 2018-11-08T105613.200.json

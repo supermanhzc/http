@@ -1,7 +1,7 @@
 GET http://127.0.0.1:8081/gms/contentmgnt/announcement/page/index=1&size=10
 Accept: */*
 Content-Type: application/json
-Token: 2b092141-d7c1-49bf-bf55-fa8dcd470484
+Token: ce53223f-52fa-4853-b4be-c24e721e9f94
 
 <> 2018-11-08T032947.200.txt
 <> 2018-11-08T014722.200.json

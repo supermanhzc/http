@@ -1,7 +1,7 @@
-GET http://127.0.0.1:8081/gms/contentmgnt/cooperatbusiness/42
+GET http://127.0.0.1:8081/gms/contentmgnt/cooperatbusiness/1066318910992699394
 Accept: */*
 Content-Type: application/json
-Token: 73f16cf8-6e89-4b5c-82b7-d4c63801db1d
+Token: cbf956b0-91ed-455a-bf28-6dab788c88ec
 
 <> 2018-11-09T115128.200.json
 <> 2018-11-09T111911.200.json
