@@ -1,0 +1,64 @@
+###获取token
+POST http://localhost:8081/gms/login
+Accept: */*
+Content-Type: application/json
+
+{
+  "username":"hzc",
+  "password":"hzcsb"
+}
+
+<> 2018-11-25T112220.200.json
+
+###查询
+POST http://127.0.0.1:8081/gms/cardmgnt/retrieve
+Accept: */*
+Content-Type: application/json
+Token: dc227b6d-4f94-440b-b0a4-a58d4aa70437
+
+{   "pageIndex":1,   "pageSize":15}
+
+<> 2018-11-25T095044.200.json
+
+####更新部分字段，id必填
+PUT http://127.0.0.1:8081/gms/cardmgnt/update
+Accept: */*
+Content-Type: application/json
+Token: dc227b6d-4f94-440b-b0a4-a58d4aa70437
+
+{
+  "drawDuration": 39,
+  "useInterval": 0,
+  "name": "1000元会员卡",
+  "id": 1065066959051227137,
+  "goldCoinEveryDay": 51.0
+}
+
+<> 2018-11-25T095328.200.json
+
+####更新全部字段
+PUT http://127.0.0.1:8081/gms/cardmgnt/update
+Accept: */*
+Content-Type: application/json
+Token: dc227b6d-4f94-440b-b0a4-a58d4aa70437
+
+{
+
+  "id": 1065066959051227137,
+  "goldCoinEveryDay": 51.0,
+  "drawDuration": 39,
+  "icon": "card1.icon",
+  "name": "88元会员卡",
+  "cardHead":"88y",
+  "randomFigure": 9
+
+}
+
+<> 2018-11-25T112829.200.json
+<> 2018-11-25T112820.200.json
+<> 2018-11-25T102138.200.json
+<> 2018-11-25T102123.200.json
+<> 2018-11-25T101950.200.json
+
+###
+

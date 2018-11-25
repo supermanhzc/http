@@ -1,0 +1,5 @@
+{
+  "code": "700000",
+  "msg": "反射异常[nested exception is org.apache.ibatis.exceptions.PersistenceException: \r\n### Error querying database.  Cause: com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: Method queryTotal execution error.\r\n### The error may exist in com/taoyuan/gms/core/adminmanage/dao/VChartRankingMapper.java (best guess)\r\n### The error may involve defaultParameterMap\r\n### The error occurred while setting parameters\r\n### Cause: com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: Method queryTotal execution error.]",
+  "data": null
+}

@@ -1,0 +1,21 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": {
+    "sessionId": "2855174c-5f0b-4f63-9d28-36d715d30c6d",
+    "userId": 3,
+    "userName": "hzc",
+    "name": "胡正超",
+    "phone": "15898888888",
+    "status": 0,
+    "roles": [
+      {
+        "id": 3,
+        "name": "代理会员",
+        "desc": "代理会员",
+        "enabled": true
+      }
+    ],
+    "permissions": []
+  }
+}

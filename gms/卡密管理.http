@@ -1,0 +1,104 @@
+###获取token
+POST http://localhost:8081/gms/login
+Accept: */*
+Content-Type: application/json
+
+{
+  "username":"hzc",
+  "password":"hzcsb"
+}
+
+<> 2018-11-25T013534.200.json
+<> 2018-11-25T012838.200.json
+<> 2018-11-25T012153.200.json
+<> 2018-11-25T012120.200.json
+<> 2018-11-25T010640.200.json
+<> 2018-11-25T010534.200.json
+<> 2018-11-25T121229.200.json
+<> 2018-11-25T120848.200.json
+<> 2018-11-25T120746.200.json
+<> 2018-11-25T112220.200.json
+
+###查询
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/retrieve
+Accept: */*
+Content-Type: application/json
+Token: 2855174c-5f0b-4f63-9d28-36d715d30c6d
+
+{   "pageIndex":1,   "pageSize":15}
+
+<> 2018-11-25T013545.200.json
+<> 2018-11-25T012850.200.json
+<> 2018-11-25T012356.200.json
+<> 2018-11-25T012126.200.json
+<> 2018-11-25T010713.200.json
+<> 2018-11-25T121242.200.json
+<> 2018-11-25T120858.200.json
+<> 2018-11-25T095044.200.json
+
+####创建卡密
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/create
+Accept: */*
+Content-Type: application/json
+Token: 2855174c-5f0b-4f63-9d28-36d715d30c6d
+
+{
+  "cardType": 1,
+  "number": 10
+}
+
+<> 2018-11-25T013557.200.json
+<> 2018-11-25T012857.200.json
+<> 2018-11-25T012325.200.json
+<> 2018-11-25T010830.200.json
+<> 2018-11-25T010654.200.json
+<> 2018-11-25T010549.200.json
+<> 2018-11-25T121251.200.json
+<> 2018-11-25T120924.200.json
+<> 2018-11-25T120904.200.json
+<> 2018-11-25T095328.200.json
+
+####撤销，卡号为空
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/withdraw
+Accept: */*
+Content-Type: application/json
+Token: 2855174c-5f0b-4f63-9d28-36d715d30c6d
+
+{
+
+}
+
+<> 2018-11-25T013054.200.json
+<> 2018-11-25T012338.200.json
+<> 2018-11-25T112829.200.json
+<> 2018-11-25T112820.200.json
+<> 2018-11-25T102138.200.json
+<> 2018-11-25T102123.200.json
+<> 2018-11-25T101950.200.json
+
+###撤销成功
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/withdraw
+Accept: */*
+Content-Type: application/json
+Token: 2855174c-5f0b-4f63-9d28-36d715d30c6d
+
+{
+  "cardId": "10y07741081"
+}
+
+<> 2018-11-25T013623.200.json
+
+####删除
+DELETE http://127.0.0.1:8081/gms/cardpwdmgnt/delete
+Accept: */*
+Content-Type: application/json
+Token: 2855174c-5f0b-4f63-9d28-36d715d30c6d
+
+{
+  "cardId": "10y09307719"
+}
+
+<> 2018-11-25T013729.200.json
+
+###
+

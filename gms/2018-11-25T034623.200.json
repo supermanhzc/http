@@ -1,0 +1,5 @@
+{
+  "code": "-1",
+  "msg": "未知异常[\r\n### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'ranking_count' in 'field list'\r\n### The error may exist in com/taoyuan/gms/core/adminmanage/dao/VChartRankingSettingMapper.java (best guess)\r\n### The error may involve defaultParameterMap\r\n### The error occurred while setting parameters\r\n### SQL: SELECT  id,ranking_count,base_chart  FROM admin_vchartrankingsetting\r\n### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'ranking_count' in 'field list'\n; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'ranking_count' in 'field list']",
+  "data": null
+}
