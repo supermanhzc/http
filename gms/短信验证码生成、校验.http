@@ -1,0 +1,56 @@
+###获取token
+POST http://127.0.0.1:8081/gms/login
+Accept: */*
+Content-Type: application/json
+
+{
+	"username":"hzc",
+	"password":"hzcsb"
+}
+
+###参数说明
+//接口名称:短信，不传的话默认为短信
+//private String infName;
+//类型:1注册,2找回密码,3兑奖。必填字段
+//private int type;
+//验证码接收终端，当前默认为手机号码。必填字段
+//private String dest;
+//验证码
+//private String vCode;
+
+###生成验证码
+POST http://localhost:8081/gms/verificationcode/generate
+Accept: */*
+Content-Type: application/json
+Token: fa492693-0c40-42c9-a762-641874fe6faf
+
+{
+    "dest":"13805168419",
+    "type":1
+}
+
+<> 2018-11-20T124519.200.json
+<> 2018-11-20T123222.200.json
+<> 2018-11-20T114322.200.json
+<> 2018-11-20T114149.200.json
+<> 2018-11-20T113308.200.json
+<> 2018-11-20T113046.200.json
+<> 2018-11-20T112814.200.json
+<> 2018-11-20T112439.200.json
+<> 2018-11-20T112425.200.json
+<> 2018-11-20T101916.200.json
+<> 2018-11-20T101313.200.json
+<> 2018-11-20T100048.404.json
+<> 2018-11-20T095817.404.json
+<> 2018-11-20T095410.404.json
+<> 2018-11-20T095004.404.json
+<> 2018-11-20T094955.404.html
+<> 2018-11-20T094228.404.html
+<> 2018-11-20T094220.404.json
+<> 2018-11-20T093441.404.json
+<> 2018-11-20T093435.404.json
+<> 2018-11-20T092905.404.json
+<> 2018-11-20T092635.404.json
+
+###
+
