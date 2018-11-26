@@ -1,0 +1,143 @@
+{
+  "records": [
+    {
+      "money_changed": -100,
+      "id": 1061988974622441473,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988974899265537,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975041871874,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975184478209,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975335473154,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975473885185,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975612297218,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975754903553,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988975893315585,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1061988976027533313,
+      "proxy_id": 3,
+      "time": "2018-11-12 22:27:55",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1062143437899354113,
+      "proxy_id": 3,
+      "time": "2018-11-13 08:41:43",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1062143438176178178,
+      "proxy_id": 3,
+      "time": "2018-11-13 08:41:44",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1062143438314590210,
+      "proxy_id": 3,
+      "time": "2018-11-13 08:41:44",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1062143438465585154,
+      "proxy_id": 3,
+      "time": "2018-11-13 08:41:44",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    },
+    {
+      "money_changed": -100,
+      "id": 1062143438599802881,
+      "proxy_id": 3,
+      "time": "2018-11-13 08:41:44",
+      "type": 0,
+      "proxy_name": "代理1",
+      "account": 1000
+    }
+  ],
+  "total": 20,
+  "size": 15,
+  "current": 1,
+  "pages": 2
+}

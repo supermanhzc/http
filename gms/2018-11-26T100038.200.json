@@ -1,0 +1,98 @@
+{
+  "records": [
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975419567210497,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975419852423169,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975419999223810,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420141830145,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420280242177,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420427042817,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420569649154,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420703866882,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420846473218,
+      "time": "2018-11-12",
+      "status": 1
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "loss": 50000.0,
+      "rabate": 10000.0,
+      "id": 1061975420984885249,
+      "time": "2018-11-12",
+      "status": 1
+    }
+  ],
+  "total": 90,
+  "size": 10,
+  "current": 1,
+  "pages": 9
+}
