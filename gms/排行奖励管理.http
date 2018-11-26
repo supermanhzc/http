@@ -8,55 +8,63 @@ Content-Type: application/json
   "password":"hzcsb"
 }
 
+<> 2018-11-26T042627.200.json
 <> 2018-11-25T031621.200.json
 
 ###查询排行数
 POST http://127.0.0.1:8081/gms/rewardmgnt/ranking/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
+<> 2018-11-26T042652.200.json
+<> 2018-11-26T042639.200.json
 <> 2018-11-25T031642.200.json
 
 ####修改排行数
 PUT http://127.0.0.1:8081/gms/rewardmgnt/ranking/update
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 {
-  "rankingCount": 8
+    //必填
+    "rankingCount": 8
 }
 
+<> 2018-11-26T042649.200.json
 <> 2018-11-25T031632.200.json
 
 
-####查询奖励
+####查询所有排行奖励
 POST http://127.0.0.1:8081/gms/rewardmgnt/charts/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 {
 
 }
 
+<> 2018-11-26T042701.200.json
 <> 2018-11-25T032824.200.json
 
 ###修改奖励
 PUT http://127.0.0.1:8081/gms/rewardmgnt/charts/update
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 [
   {
+    //必填
     "ranking":1,
-    "chart":18000
+    //必填
+    "chart":18005
   },
   {
     "ranking":2,
-    "chart":9000
+    "chart":9005
   },
   {
     "ranking":3,
@@ -92,27 +100,32 @@ Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
   }
 ]
 
+<> 2018-11-26T042727.200.json
 <> 2018-11-25T013623.200.json
 
 ###查询虚拟排行数
 POST http://127.0.0.1:8081/gms/rewardmgnt/vranking/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
+<> 2018-11-26T042920.200.json
 <> 2018-11-25T031642.200.json
 
 ####修改排行数
 PUT http://127.0.0.1:8081/gms/rewardmgnt/vranking/update
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 {
-  "rankingCount": 8,
-  "baseChart":180000
+    //必填
+    "rankingCount": 10,
+    //必填
+    "baseChart":180010
 }
 
+<> 2018-11-26T042934.200.json
 <> 2018-11-25T031632.200.json
 
 
@@ -120,40 +133,45 @@ Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
 POST http://127.0.0.1:8081/gms/rewardmgnt/vcharts/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 {
 
 }
 
+<> 2018-11-26T042959.200.json
 <> 2018-11-25T032824.200.json
 
 ####查询奖励前5
 POST http://127.0.0.1:8081/gms/rewardmgnt/vcharts/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 {
-"count":5
+    //必填
+    "count":5
 }
 
+<> 2018-11-26T043009.200.json
 <> 2018-11-25T032824.200.json
 
 ###修改奖励
 PUT http://127.0.0.1:8081/gms/rewardmgnt/vcharts/update
 Accept: */*
 Content-Type: application/json
-Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
+Token: aace3660-2c39-40a8-b3e7-eeb7d8a71e95
 
 [
   {
+    //必填
     "ranking":1,
-    "chart":30
+    //必填
+    "chart":31
   },
   {
     "ranking":2,
-    "chart":20
+    "chart":21
   },
   {
     "ranking":3,
@@ -189,6 +207,7 @@ Token: 6941fc38-c086-407a-a95c-cd85bdcfbbcf
   }
 ]
 
+<> 2018-11-26T043024.200.json
 <> 2018-11-25T013623.200.json
 
 ###
