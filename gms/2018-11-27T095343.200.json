@@ -1,0 +1,12 @@
+{
+  "id": 1067416179074744321,
+  "name": "20元充值卡",
+  "classify": "20元充值卡",
+  "autoDispatch": 0,
+  "cardType": 1,
+  "basicPrice": 2000,
+  "stock": 100,
+  "icon": "card.icon",
+  "converted": 0,
+  "details": "这里是奖品的详细描述信息"
+}

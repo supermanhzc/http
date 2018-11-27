@@ -1,0 +1,12 @@
+{
+  "id": 1067415177256792066,
+  "name": "30元充值卡",
+  "classify": "30元充值卡",
+  "autoDispatch": 0,
+  "cardType": 3,
+  "basicPrice": 2000.00,
+  "stock": 100,
+  "icon": "card.icon",
+  "converted": 0,
+  "details": "这里是奖品的详细描述信息"
+}

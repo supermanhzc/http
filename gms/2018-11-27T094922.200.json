@@ -1,0 +1,12 @@
+{
+  "id": 1067415085120516098,
+  "name": "10元充值卡",
+  "classify": "10元充值卡",
+  "autoDispatch": 0,
+  "cardType": 1,
+  "basicPrice": 2000,
+  "stock": 100,
+  "icon": "card.icon",
+  "converted": 0,
+  "details": "这里是奖品的详细描述信息"
+}
