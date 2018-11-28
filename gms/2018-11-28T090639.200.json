@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "member_id": 300001,
+      "date": "2018-11-13",
+      "member_nick_name": "会员1",
+      "ytd_junior_commission_flow": 10000.0,
+      "id": 1062342071110606850,
+      "wage": 1000.0,
+      "status": 3
+    },
+    {
+      "member_id": 300001,
+      "date": "2018-11-13",
+      "member_nick_name": "会员1",
+      "ytd_junior_commission_flow": 10000.0,
+      "id": 1062342072020770818,
+      "wage": 1000.0,
+      "status": 3
+    },
+    {
+      "member_id": 300001,
+      "date": "2018-11-13",
+      "member_nick_name": "会员1",
+      "ytd_junior_commission_flow": 10000.0,
+      "id": 1062342072175960065,
+      "wage": 1000.0,
+      "status": 3
+    },
+    {
+      "member_id": 300001,
+      "date": "2018-11-13",
+      "member_nick_name": "会员1",
+      "ytd_junior_commission_flow": 10000.0,
+      "id": 1062342302762016770,
+      "wage": 1000.0,
+      "status": 3
+    },
+    {
+      "member_id": 300001,
+      "date": "2018-11-13",
+      "member_nick_name": "会员1",
+      "ytd_junior_commission_flow": 10000.0,
+      "id": 1062342303051423746,
+      "wage": 1000.0,
+      "status": 3
+    }
+  ],
+  "total": 5,
+  "size": 15,
+  "current": 1,
+  "pages": 1
+}

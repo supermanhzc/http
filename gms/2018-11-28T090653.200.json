@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1000006,
+    "proxyId": 1,
+    "proxyName": "代理名称6",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000007,
+    "proxyId": 1,
+    "proxyName": "代理名称7",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000008,
+    "proxyId": 1,
+    "proxyName": "代理名称8",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000009,
+    "proxyId": 1,
+    "proxyName": "代理名称9",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000000,
+    "proxyId": 1,
+    "proxyName": "代理名称0",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000001,
+    "proxyId": 1,
+    "proxyName": "代理名称1",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 4000.0,
+    "callbackMoney": 2000.0,
+    "income": 200000.0
+  },
+  {
+    "id": 1000003,
+    "proxyId": 1,
+    "proxyName": "代理名称3",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000004,
+    "proxyId": 1,
+    "proxyName": "代理名称4",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  },
+  {
+    "id": 1000005,
+    "proxyId": 1,
+    "proxyName": "代理名称5",
+    "time": "2018-11-13 00:00:00",
+    "substituteMoney": 2000.0,
+    "callbackMoney": 1000.0,
+    "income": 100000.0
+  }
+]

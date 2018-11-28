@@ -1,0 +1,98 @@
+{
+  "records": [
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903358941474818,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903359394459650,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903359688060930,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903359839055874,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903359977467906,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1061903360128462850,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1062001359710142466,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1062001359982772225,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1062001360137961473,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    },
+    {
+      "member_id": 300001,
+      "member_nick_name": "会员1",
+      "id": 1062001360280567810,
+      "time": "2018-11-12",
+      "type": 2,
+      "rewards": 5555.0,
+      "status": "未领取"
+    }
+  ],
+  "total": 146,
+  "size": 10,
+  "current": 1,
+  "pages": 15
+}

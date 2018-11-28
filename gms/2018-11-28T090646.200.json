@@ -1,0 +1,98 @@
+{
+  "records": [
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000000,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称0"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000001,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称1"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000002,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称1"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000003,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称3"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000004,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称4"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000005,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称5"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000006,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称6"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000007,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称7"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000008,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称8"
+    },
+    {
+      "income": 100000.0,
+      "substitute_money": 2000.0,
+      "callback_money": 1000.0,
+      "id": 1000009,
+      "proxy_id": 1,
+      "time": "2018-11-13",
+      "proxy_name": "代理名称9"
+    }
+  ],
+  "total": 10,
+  "size": 15,
+  "current": 1,
+  "pages": 1
+}

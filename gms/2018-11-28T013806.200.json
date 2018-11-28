@@ -1,0 +1,36 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": [
+    {
+      "id": 1067653840427343874,
+      "proxyId": 3,
+      "proxyName": "胡正超",
+      "memberId": 2,
+      "memberName": "访客",
+      "count": 1,
+      "amount": 0,
+      "time": "2018-11-28 13:38:05"
+    },
+    {
+      "id": 1067653840569950209,
+      "proxyId": 3,
+      "proxyName": "胡正超",
+      "memberId": 3,
+      "memberName": "胡正超",
+      "count": 1,
+      "amount": 0,
+      "time": "2018-11-28 13:38:05"
+    },
+    {
+      "id": 1067653840708362241,
+      "proxyId": 3,
+      "proxyName": "胡正超",
+      "memberId": 5,
+      "memberName": null,
+      "count": 1,
+      "amount": 0,
+      "time": "2018-11-28 13:38:05"
+    }
+  ]
+}

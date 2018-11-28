@@ -1,0 +1,16 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": [
+    {
+      "id": 1067664180468830209,
+      "proxyId": 3,
+      "proxyName": "胡正超",
+      "memberId": 5,
+      "memberName": null,
+      "count": 2,
+      "amount": 50,
+      "time": "2018-11-28 14:19:11"
+    }
+  ]
+}

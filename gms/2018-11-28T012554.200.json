@@ -1,0 +1,908 @@
+{
+  "records": [
+    {
+      "id": 1061903358941474818,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1061903359394459650,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1061903359688060930,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1061903359839055874,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1061903359977467906,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1061903360128462850,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001359710142466,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001359982772225,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360137961473,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360280567810,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360418979841,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360565780481,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360708386818,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360846798849,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001360997793794,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062001361140400130,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-12 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139996569346049,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139996909084673,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997068468226,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997232046082,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997416595457,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997580173313,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997764722689,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139997919911938,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139998087684097,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062139998263844865,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326261499658241,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326261801648130,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326261956837378,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262120415234,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262279798785,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262455959553,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262611148801,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262766338049,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326262934110209,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1062326263089299458,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-13 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159691440129,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159724994561,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159741771777,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159758548994,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159771131905,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159787909122,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159800492034,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159817269249,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159834046465,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066252159846629377,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541800259586,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541821231106,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541833814017,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541842202625,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541850591233,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541863174145,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541871562753,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541879951362,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541888339969,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066254541900922881,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612114673665,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612144033794,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612156616705,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612165005313,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612177588226,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612185976833,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612202754050,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612215336961,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612223725570,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257612236308481,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766687358977,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766708330497,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766720913410,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766729302018,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766737690625,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766750273538,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766758662146,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766767050754,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766779633665,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066257766788022274,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327411277825,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327444832258,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327457415169,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327469998082,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327486775298,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327499358209,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327511941121,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327524524034,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327537106946,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258327549689858,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454557409282,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454582575106,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454599352322,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454611935233,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454624518146,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454637101058,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454649683969,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454662266882,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454674849793,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258454687432705,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258586564739073,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258586598293506,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258586610876418,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    },
+    {
+      "id": 1066258586619265025,
+      "type": 2,
+      "memberId": 300001,
+      "memberNickName": "会员1",
+      "rewards": 5555.0,
+      "time": "2018-11-24 00:00:00",
+      "status": "未领取"
+    }
+  ],
+  "total": 146,
+  "size": 100,
+  "current": 1,
+  "pages": 2
+}
