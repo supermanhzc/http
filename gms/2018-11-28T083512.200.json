@@ -1,0 +1,23 @@
+[
+  {
+    "money": 1000,
+    "balance": 1000000000,
+    "create_time": "2018-11-28 20:31:28",
+    "id": 1067757868259741698,
+    "proxy_id": 3,
+    "type": 1,
+    "distribution": 1000000000,
+    "status": 1
+  },
+  {
+    "money": 1000,
+    "balance": 1000000000,
+    "create_time": "2018-11-28 20:32:29",
+    "id": 1067758123898376193,
+    "proxy_id": 3,
+    "type": 1,
+    "distribution": 1000000000,
+    "finish_time": "2018-11-28 20:33:24",
+    "status": 2
+  }
+]

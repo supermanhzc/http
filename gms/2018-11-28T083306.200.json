@@ -1,0 +1,17 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": {
+    "id": 1067758123898376193,
+    "proxyId": null,
+    "type": 0,
+    "money": null,
+    "balance": null,
+    "distribution": null,
+    "status": 0,
+    "createTime": null,
+    "finishTime": null,
+    "withdraw": false,
+    "recharge": false
+  }
+}

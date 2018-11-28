@@ -1,0 +1,17 @@
+{
+  "code": "200",
+  "msg": "成功",
+  "data": {
+    "id": 1067758123898376193,
+    "proxyId": 3,
+    "type": 1,
+    "money": 1000,
+    "balance": 1000000000,
+    "distribution": 1000000000,
+    "status": 1,
+    "createTime": "2018-11-28 20:32:29",
+    "finishTime": null,
+    "withdraw": false,
+    "recharge": true
+  }
+}
