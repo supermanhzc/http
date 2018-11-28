@@ -1,0 +1,93 @@
+###获取token
+POST http://localhost:8081/gms/login
+Accept: */*
+Content-Type: application/json
+
+{
+  "username":"hzc",
+  "password":"hzcsb"
+}
+
+<> 2018-11-28T021859.200.json
+<> 2018-11-28T021100.200.json
+<> 2018-11-28T020518.200.json
+<> 2018-11-28T015903.200.json
+<> 2018-11-28T015217.200.json
+<> 2018-11-25T112220.200.json
+
+###查询最近的10笔记录
+GET http://127.0.0.1:8081/gms/proxy/cardpwd/getLatest10
+Accept: */*
+Content-Type: application/json
+Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+
+<> 2018-11-28T021937.200.json
+<> 2018-11-27T043526.200.json
+
+
+####根据传入的卡号密码查询卡密详细信息，卡号cardId必填
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/info
+Accept: */*
+Content-Type: application/json
+Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+
+[
+    {
+        "cardId": "20y91664751",
+        "password": "AnWuGwMB"
+    },
+    {
+        "cardId": "20y16881458",
+        "password": "IGOhQMj1"
+    },
+    {
+        "cardId": "20y13676051",
+        "password": "dzXUQZ86"
+    }
+]
+
+<> 2018-11-28T021926.200.json
+<> 2018-11-28T021256.200.json
+<> 2018-11-28T021205.200.json
+<> 2018-11-26T025341.200.json
+
+###回收,已经回收的不能继续回收，只处理没有充值并且没有被注销的卡密
+POST http://127.0.0.1:8081/gms/proxy/cardpwd/withdraw
+Accept: */*
+Content-Type: application/json
+Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+
+[
+    {
+        //卡号密码都正确，未回收
+        "cardId": "20y91664751",
+        "password": "AnWuGwMB"
+    },
+    {
+        //卡号密码都正确，未回收
+        "cardId": "20y16881458",
+        "password": "IGOhQMj1"
+    },
+    {
+        //卡号密码都正确，未回收
+        "cardId": "20y13676051",
+        "password": "dzXUQZ86"
+    }
+]
+
+<> 2018-11-28T021911.200.json
+<> 2018-11-28T021122.200.json
+<> 2018-11-28T020712.200.json
+<> 2018-11-28T020530.200.json
+<> 2018-11-28T015916.400.json
+<> 2018-11-28T015230.200.json
+<> 2018-11-28T014345.200.json
+<> 2018-11-28T013806.200.json
+<> 2018-11-28T013320.200.json
+<> 2018-11-27T044943.200.json
+<> 2018-11-27T044707.200.json
+<> 2018-11-27T044248.200.json
+<> 2018-11-27T044043.200.json
+<> 2018-11-27T043628.200.json
+
+###

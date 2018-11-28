@@ -8,6 +8,10 @@ Content-Type: application/json
   "password":"hzcsb"
 }
 
+<> 2018-11-28T012543.200.json
+<> 2018-11-28T012045.200.json
+<> 2018-11-28T011808.200.json
+<> 2018-11-28T090454.200.json
 <> 2018-11-27T083135.200.json
 <> 2018-11-27T082519.200.json
 <> 2018-11-26T101742.200.json
@@ -21,7 +25,7 @@ Content-Type: application/json
 ###验证码查询
 GET http://localhost:8081/gms/records/verificationcode/page/index=1&size=15
 Content-Type: application/json
-Token: 72654966-bbc5-4071-b202-fde5aad0c2bb
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   //必填
@@ -30,21 +34,24 @@ Token: 72654966-bbc5-4071-b202-fde5aad0c2bb
   "pageSize":10
 }
 
+<> 2018-11-28T090505.200.json
 <> 2018-11-26T100250.200.json
 <> 2018-11-26T100240.200.json
 
 ###代充信息查询
 GET http://localhost:8081/gms/records/recharge/page/index=1&size=15
 Content-Type: application/json
-Token: cf12dc4b-389f-4ba1-989a-c77c36293122
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
+<> 2018-11-28T090513.200.json
 <> 2018-11-26T101757.200.json
 
 ###代理操作查询
 GET http://localhost:8081/gms/records/proxyopearte/page/index=1&size=15
 Content-Type: application/json
-Token: cf12dc4b-389f-4ba1-989a-c77c36293122
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
+<> 2018-11-28T090521.200.json
 <> 2018-11-26T101916.200.json
 <> 2018-11-26T101757.200.json
 
@@ -52,7 +59,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
 ###代理登录分页查询
 POST http://localhost:8081/gms/records/memberlogin
 Content-Type: application/json
-Token: cf12dc4b-389f-4ba1-989a-c77c36293122
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   //必填
@@ -60,6 +67,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
   //必填
   "pageSize":10
 }
+<> 2018-11-28T090528.200.json
 <> 2018-11-26T101808.200.json
 <> 2018-11-26T095747.200.json
 <> 2018-11-26T095150.200.json
@@ -69,7 +77,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
 ###代理登录条件查询
 POST http://localhost:8081/gms/records/memberlogin
 Content-Type: application/json
-Token: cf12dc4b-389f-4ba1-989a-c77c36293122
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   //必填
@@ -82,6 +90,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
   "status":1
 }
 
+<> 2018-11-28T090538.200.json
 <> 2018-11-26T101817.200.json
 <> 2018-11-26T095940.200.json
 <> 2018-11-26T095818.200.json
@@ -91,7 +100,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
 ###管理员登录查询
 POST http://localhost:8081/gms/records/adminlogin
 Content-Type: application/json
-Token: cf12dc4b-389f-4ba1-989a-c77c36293122
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   //必填
@@ -99,6 +108,7 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
   //必填
   "pageSize":10
 }
+<> 2018-11-28T090548.200.json
 <> 2018-11-26T101825.200.json
 <> 2018-11-26T095957.200.json
 <> 2018-11-26T095408.200.json
@@ -109,8 +119,9 @@ Token: cf12dc4b-389f-4ba1-989a-c77c36293122
 ###亏损返利查询
 GET http://localhost:8081/gms/records/lossrabate/page/index=1&size=10
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
+<> 2018-11-28T090601.200.json
 <> 2018-11-27T082539.200.json
 <> 2018-11-26T100038.200.json
 <> 2018-11-26T100026.200.json
@@ -119,24 +130,31 @@ Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
 ###排行榜奖励记录分页查询
 GET http://localhost:8081/gms/records/chartsrewards/page/index=1&size=10
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
+<> 2018-11-28T090607.200.json
 <> 2018-11-27T082559.200.json
 <> 2018-11-26T100052.200.json
 <> 2018-11-13T082752.200.json
 <> 2018-11-12T075520.200.json
 
 ###排行榜奖励条件查询 Fail
-POST http://localhost:8081/gms/records/chartsrewards/conditon
+POST http://localhost:8081/gms/records/chartsrewards/
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: d229c912-c1a0-45b7-8337-0d8a73b6616f
 
 {
-  "pageIndex":1,
-  "pageSize":100,
-  "id":300001,
-  "stauts":1
+    //分页参数必填
+    "pageIndex":1,
+    "pageSize":100,
+    //id和status非必填，默认查所有
+    "id":300001,
+    "stauts":"未领取"
 }
+<> 2018-11-28T012103.200.json
+<> 2018-11-28T011916.200.json
+<> 2018-11-28T011848.404.json
+<> 2018-11-28T090614.404.json
 <> 2018-11-27T082639.404.json
 <> 2018-11-27T082607.404.json
 <> 2018-11-26T100103.404.json
@@ -145,8 +163,9 @@ Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
 ###每日统计查询
 GET http://localhost:8081/gms/records/dailystatistic
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
+<> 2018-11-28T090624.200.json
 <> 2018-11-27T082814.200.json
 <> 2018-11-12T075520.200.json
 
@@ -154,20 +173,21 @@ Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
 POST http://localhost:8081/gms/records/chipinwage
 Accept: */*
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   "pageIndex":1,
   "pageSize":15
 }
 
+<> 2018-11-28T090632.200.json
 <> 2018-11-27T082825.200.json
 
 ###下线提成查询
 POST http://localhost:8081/gms/records/juniorcommission
 Accept: */*
 Content-Type: application/json
-Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   "pageIndex":1,
@@ -176,6 +196,7 @@ Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
   "status":3
 }
 
+<> 2018-11-28T090639.200.json
 <> 2018-11-27T082834.200.json
 
 
@@ -183,13 +204,14 @@ Token: 7eaab86a-1622-4450-a07b-25eed5ab86af
 POST http://localhost:8081/gms/records/saledetail
 Accept: */*
 Content-Type: application/json
-Token: cdbf0bcb-fdf1-45c2-81cb-097173651206
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   "pageIndex":1,
   "pageSize":15
 }
 
+<> 2018-11-28T090646.200.json
 <> 2018-11-27T083203.200.json
 <> 2018-11-27T082958.200.json
 <> 2018-11-27T082842.200.json
@@ -198,7 +220,7 @@ Token: cdbf0bcb-fdf1-45c2-81cb-097173651206
 POST http://localhost:8081/gms/records/salestatistic
 Accept: */*
 Content-Type: application/json
-Token: cdbf0bcb-fdf1-45c2-81cb-097173651206
+Token: 8779fa8a-fd78-4ac1-a2fb-2c6112fae33d
 
 {
   "pageIndex":1,
@@ -207,15 +229,40 @@ Token: cdbf0bcb-fdf1-45c2-81cb-097173651206
   "end":"2018-11-19"
 }
 
+<> 2018-11-28T090653.200.json
 <> 2018-11-27T083211.200.json
 
 ###虚拟排行榜奖励记录查询
 GET http://localhost:8081/gms/records/vchartsrewards/page/index=1&size=10
 Content-Type: application/json
-Token: cdbf0bcb-fdf1-45c2-81cb-097173651206
+Token: 31531798-6d12-428c-875c-356286c3d04d
 
+<> 2018-11-28T012610.200.json
+<> 2018-11-28T012227.200.json
+<> 2018-11-28T090702.200.json
 <> 2018-11-27T083223.200.json
 
+
+###
+###虚拟排行榜奖励记录条件查询
+POST http://localhost:8081/gms/records/vchartsrewards/
+Content-Type: application/json
+Token: 31531798-6d12-428c-875c-356286c3d04d
+
+{
+    //分页参数必填
+    "pageIndex":1,
+    "pageSize":100,
+    //id和status非必填，默认查所有
+    "id":300001,
+    "stauts":"未领取"
+}
+<> 2018-11-28T012554.200.json
+<> 2018-11-28T012325.404.json
+<> 2018-11-28T012316.200.json
+<> 2018-11-28T012227.200.json
+<> 2018-11-28T090702.200.json
+<> 2018-11-27T083223.200.json
 
 ###
 
