@@ -1,0 +1,5 @@
+{
+  "code": "-1",
+  "msg": "未知异常[\r\n### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'field list'\r\n### The error may exist in com/taoyuan/gms/core/adminmanage/dao/UserMapper.java (best guess)\r\n### The error may involve defaultParameterMap\r\n### The error occurred while setting parameters\r\n### SQL: SELECT  id,nick_name,qq,balance,bank,experience,username,name,password,phone,type,status,create_time,create_user  FROM gms_user\r\n### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'field list'\n; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'field list']",
+  "data": null
+}
