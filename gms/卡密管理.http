@@ -1,5 +1,5 @@
 ###获取token
-POST http://localhost:8081/gms/login
+POST https://127.0.0.1:8443/gms/login
 Accept: */*
 Content-Type: application/json
 
@@ -8,69 +8,131 @@ Content-Type: application/json
   "password":"hzcsb"
 }
 
-<> 2018-11-26T030459.200.json
-<> 2018-11-26T030005.200.json
-<> 2018-11-26T025553.200.json
-<> 2018-11-26T025329.200.json
-<> 2018-11-26T023948.200.json
-<> 2018-11-26T023710.200.json
-<> 2018-11-26T023323.200.json
-<> 2018-11-25T112220.200.json
+<> 2018-11-29T045007.200.json
+<> 2018-11-29T044620.200.json
+<> 2018-11-29T044406.200.json
+<> 2018-11-29T025605.200.json
+<> 2018-11-29T020359.200.json
+<> 2018-11-29T013610.200.html
+<> 2018-11-29T123217.200.json
+<> 2018-11-29T123140.200.html
+<> 2018-11-29T123056.200.json
+<> 2018-11-29T112435.200.json
+<> 2018-11-29T111934.200.json
+<> 2018-11-29T111611.200.json
 
 ###查询,分页参数必填
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 81632592-cd33-4c83-ab2b-8863b859fde4
+Token: 96bb2c5c-08c9-47f7-8596-3a23ebfe6aa4
 
 {   "pageIndex":1,   "pageSize":15}
 
+<> 2018-11-29T020410.200.json
+<> 2018-11-29T112448.200.json
+<> 2018-11-29T110750.200.json
+<> 2018-11-29T105755.200.json
+<> 2018-11-29T105604.200.json
 <> 2018-11-25T095044.200.json
 
+###复杂条件查询,
+###分页参数必填，keyword可选，匹配卡号，密码，兑奖id
+###cardType卡类型，可选
+###status卡密状态，可选
+###owner卡拥有人，可选
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/retrieve
+Accept: */*
+Content-Type: application/json
+Token: 96bb2c5c-08c9-47f7-8596-3a23ebfe6aa4
+
+{
+    "pageIndex":1,
+    "pageSize":15,
+//    "keyword":"",
+    "owner":"胡正超",
+    "status":2
+}
+
+<> 2018-11-29T020916.200.json
+<> 2018-11-29T020859.200.json
+<> 2018-11-29T020818.200.json
+<> 2018-11-29T020744.200.json
+<> 2018-11-29T020730.200.json
+<> 2018-11-29T020717.200.json
+<> 2018-11-29T020410.200.json
+<> 2018-11-29T112448.200.json
+<> 2018-11-29T110750.200.json
+<> 2018-11-29T105755.200.json
+<> 2018-11-29T105604.200.json
+<> 2018-11-25T095044.200.json
 ###创建卡密
 ###卡类型：cardType,1:10元会员卡，2:20元会员卡，3:30元会员卡，4:红钻会员卡，必填
 ###批量生成数量：number,必填
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/create
 Accept: */*
 Content-Type: application/json
-Token: 81632592-cd33-4c83-ab2b-8863b859fde4
+Token: 96bb2c5c-08c9-47f7-8596-3a23ebfe6aa4
 
 {
   "cardType": 1,
   "number": 10
 }
 
+<> 2018-11-29T020420.200.json
+<> 2018-11-29T110759.200.json
+<> 2018-11-29T105803.200.json
+<> 2018-11-29T105612.200.json
+<> 2018-11-29T104421.200.json
 <> 2018-11-25T095328.200.json
 
-####撤销，卡号为空报错
+####回收，卡号为空报错
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/withdraw
 Accept: */*
 Content-Type: application/json
-Token: 2c9fcc33-11d4-4486-9bb0-32fcc124723a
+Token: 04142f71-0cd6-4541-82ab-6980a33bc34e
 
 {
 
 }
 
+<> 2018-11-29T111947.200.json
+<> 2018-11-29T111629.200.json
+<> 2018-11-29T110808.200.json
+<> 2018-11-29T105810.200.json
+<> 2018-11-29T105621.200.json
+<> 2018-11-29T104443.200.json
 <> 2018-11-25T101950.200.json
 
-###撤销成功
-###卡号：cardId必填
+###回收成功
+###卡号：cardId\password必填
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/withdraw
 Accept: */*
 Content-Type: application/json
-Token: 81632592-cd33-4c83-ab2b-8863b859fde4
+Token: 04142f71-0cd6-4541-82ab-6980a33bc34e
 
 {
-  "cardId": "10y78485067"
+  "cardId": "10y54003670",
+  "password":"wDU4xB9M"
 }
 
-###批量撤销，此接口供代理调用
+<> 2018-11-29T112710.400.json
+<> 2018-11-29T112614.400.json
+<> 2018-11-29T112607.400.json
+<> 2018-11-29T112542.400.json
+<> 2018-11-29T112312.200.json
+<> 2018-11-29T112302.200.json
+<> 2018-11-29T112202.400.json
+<> 2018-11-29T112034.400.json
+<> 2018-11-29T111954.400.json
+<> 2018-11-29T111807.400.json
+
+###批量回收，此接口供代理调用
 ###卡号：cardId必填,password必填
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/withdrawbatch
 Accept: */*
 Content-Type: application/json
-Token: ece1d2bc-077f-4d26-a308-c83b947af167
+Token: bb957a5a-1c14-4545-96af-6be6fd4eba21
 
 [
     {
@@ -83,6 +145,73 @@ Token: ece1d2bc-077f-4d26-a308-c83b947af167
     }
 ]
 
+<> 2018-11-29T111247.200.json
+<> 2018-11-29T110523.200.json
+<> 2018-11-29T105910.200.json
+<> 2018-11-25T013623.200.json
+
+
+
+####撤销，卡号为空报错
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/cancel
+Accept: */*
+Content-Type: application/json
+Token: 080d71b4-a6fc-4146-a0d4-ab37ca313db2
+
+{
+
+}
+
+<> 2018-11-29T111021.200.json
+<> 2018-11-29T110555.200.json
+<> 2018-11-29T110159.200.json
+<> 2018-11-29T105810.200.json
+<> 2018-11-29T105621.200.json
+<> 2018-11-29T104443.200.json
+<> 2018-11-25T101950.200.json
+
+###撤销成功
+###卡号：cardId\password必填
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/cancel
+Accept: */*
+Content-Type: application/json
+Token: 04142f71-0cd6-4541-82ab-6980a33bc34e
+
+{
+  "cardId": "10y54003670",
+  "password":"wDU4xB9M"
+}
+
+<> 2018-11-29T112656.200.json
+<> 2018-11-29T111030.200.json
+<> 2018-11-29T110601.200.json
+<> 2018-11-29T110208.200.json
+<> 2018-11-29T105817.400.json
+<> 2018-11-29T104923.400.json
+<> 2018-11-29T104904.400.json
+<> 2018-11-29T104632.400.json
+<> 2018-11-29T104451.200.json
+
+###批量撤销，此接口供代理调用
+###卡号：cardId必填,password必填
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/cancelbatch
+Accept: */*
+Content-Type: application/json
+Token: 080d71b4-a6fc-4146-a0d4-ab37ca313db2
+
+[
+    {
+        "cardId": "10y71154102",
+        "password": "Rd7AhPaO"
+    },
+    {
+        "cardId": "10y43781631",
+        "password": "yplQrwUg"
+    }
+]
+
+<> 2018-11-29T111043.200.json
+<> 2018-11-29T105910.200.json
 <> 2018-11-25T013623.200.json
 
 ####根据id删除卡密
@@ -101,7 +230,7 @@ Token: d2ee2917-bc00-4722-9a47-d8afe91409f7
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/info
 Accept: */*
 Content-Type: application/json
-Token: 5216d743-3514-41f1-9e07-a07ea51e09e2
+Token: 86c5ea56-12e6-4c6e-95a0-bf33647959b0
 
 [
     {
@@ -125,7 +254,38 @@ Token: 5216d743-3514-41f1-9e07-a07ea51e09e2
     }
 ]
 
+<> 2018-11-29T110046.200.json
 <> 2018-11-26T025341.200.json
+
+###
+###复杂条件查询,
+###分页参数必填，keyword可选，匹配卡号，密码，兑奖id
+###cardType卡类型，可选
+###status卡密状态，可选
+###owner卡拥有人，可选
+POST http://127.0.0.1:8081/gms/cardpwdmgnt/proxyquery
+Accept: */*
+Content-Type: application/json
+Token: eba0976e-e376-4c23-bd07-ea97863632a2
+
+{
+    "pageIndex":1,
+    "pageSize":15,
+    "keyword":"IxrVqY9x",
+    "cardType":2
+}
+
+<> 2018-11-29T045241.400.json
+<> 2018-11-29T045228.200.json
+<> 2018-11-29T045201.400.json
+<> 2018-11-29T045103.400.json
+<> 2018-11-29T045046.200.json
+<> 2018-11-29T045020.200.json
+<> 2018-11-29T044656.400.json
+<> 2018-11-29T044649.200.json
+<> 2018-11-29T044633.200.json
+<> 2018-11-29T044431.200.json
+<> 2018-11-29T044420.200.json
 
 ###
 

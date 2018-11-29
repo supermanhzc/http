@@ -8,6 +8,14 @@ Content-Type: application/json
   "password":"hzcsb"
 }
 
+<> 2018-11-29T104250.200.json
+<> 2018-11-29T092853.200.json
+<> 2018-11-29T092844.200.json
+<> 2018-11-29T092720.200.json
+<> 2018-11-29T092712.200.json
+<> 2018-11-29T091942.200.json
+<> 2018-11-29T090842.200.json
+<> 2018-11-29T090830.400.txt
 <> 2018-11-28T021859.200.json
 <> 2018-11-28T021100.200.json
 <> 2018-11-28T020518.200.json
@@ -16,11 +24,14 @@ Content-Type: application/json
 <> 2018-11-25T112220.200.json
 
 ###查询最近的10笔记录
-GET http://127.0.0.1:8081/gms/proxy/cardpwd/getLatest10
+GET https://127.0.0.1:8443/gms/proxy/cardpwd/getLatest10
 Accept: */*
 Content-Type: application/json
-Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+Token: e5032fba-224d-4744-a9c3-307e5a13fa6e
 
+<> 2018-11-29T104329.200.json
+<> 2018-11-29T091958.200.json
+<> 2018-11-29T090921.200.json
 <> 2018-11-28T021937.200.json
 <> 2018-11-27T043526.200.json
 
@@ -29,7 +40,7 @@ Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/info
 Accept: */*
 Content-Type: application/json
-Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+Token: e5032fba-224d-4744-a9c3-307e5a13fa6e
 
 [
     {
@@ -46,6 +57,7 @@ Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
     }
 ]
 
+<> 2018-11-29T104340.200.json
 <> 2018-11-28T021926.200.json
 <> 2018-11-28T021256.200.json
 <> 2018-11-28T021205.200.json
@@ -55,7 +67,7 @@ Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
 POST http://127.0.0.1:8081/gms/proxy/cardpwd/withdraw
 Accept: */*
 Content-Type: application/json
-Token: e5c331fa-7e11-418d-81f8-797bb3e1003b
+Token: e5032fba-224d-4744-a9c3-307e5a13fa6e
 
 [
     {
