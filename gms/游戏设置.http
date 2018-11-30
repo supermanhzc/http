@@ -4,7 +4,7 @@ Accept: */*
 Content-Type: application/json
 
 {
-  "username":"hzc",
+  "userName":"hzc",
   "password":"hzcsb"
 }
 
@@ -41,7 +41,7 @@ Content-Type: application/json
 GET http://127.0.0.1:8081/gms/webmgnt/gamesetting
 Accept: */*
 Content-Type: application/json
-Token: 05134c7a-cdfb-4432-afc2-ca985bac9e5c
+Token: f2805465-ca24-4ebf-9d23-3e434bd635f4
 
 <> 2018-11-27T074131.200.json
 
@@ -49,15 +49,18 @@ Token: 05134c7a-cdfb-4432-afc2-ca985bac9e5c
 PUT http://127.0.0.1:8081/gms/webmgnt/gamesetting
 Accept: */*
 Content-Type: application/json
-Token: 1e67c4f2-5b62-4be9-8114-a67881a4ef60
+Token: f2805465-ca24-4ebf-9d23-3e434bd635f4
 
 [
   {
     //必填字段
     "gameName": "游戏1",
-    "chipinLower": 10.0,
-    "chipinUpper": 90.0,
-    "stopChipinTime": 6
+    "chipinLower": 11.0,
+    "chipinUpper": 91.0,
+    "stopChipinTime": 8,
+    "openGame":9,
+    "drawGame":9,
+    "computeTurnover":9
   }
 ]
 
