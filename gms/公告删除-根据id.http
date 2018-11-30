@@ -1,7 +1,0 @@
-DELETE http://127.0.0.1:8081/gms/contentmgnt/announcement/238
-Accept: */*
-Content-Type: application/json
-Token: ce53223f-52fa-4853-b4be-c24e721e9f94
-
-###
-
