@@ -54,11 +54,11 @@ Token: 87f16b79-4d77-4217-b9b1-8a5c60efbece
 POST http://127.0.0.1:8081/gms/prizemgnt/prize/
 Accept: */*
 Content-Type: application/json
-Token: 87f16b79-4d77-4217-b9b1-8a5c60efbece
+Token: c00a1f2c-563e-496e-b875-060ae62e1e37
 
 {
-  "name":"20元充值卡",
-  "classify":"20元充值卡",
+  "name":"10元充值卡",
+  "classify":"10元充值卡",
   "autoDispatch":0,
   "cardType":1,
   "basicPrice":2000,

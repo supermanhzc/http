@@ -4,7 +4,7 @@ Accept: */*
 Content-Type: application/json
 
 {
-  "username":"hzc",
+  "userName":"hzc",
   "password":"hzcsb"
 }
 
@@ -39,6 +39,12 @@ Token: fcaafa21-d7c0-471b-8ba1-e1fbd8cdb6d8
 <> 2018-11-26T033507.200.json
 <> 2018-11-26T031353.200.json
 <> 2018-11-25T095044.200.json
+
+###查询，根据id查询
+GET http://127.0.0.1:8081/gms/cardmgnt/retrieve/id=1066958768232763394
+Accept: */*
+Content-Type: application/json
+Token: d528ed98-0c4b-4cde-9878-30cabed9b6bc
 
 ###创建充值卡 "cardType": 1,
 POST http://127.0.0.1:8081/gms/cardmgnt/create
