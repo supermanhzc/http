@@ -1,0 +1,102 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1061903358941474818,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1061903359394459650,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1061903359688060930,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1061903359839055874,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1061903359977467906,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1061903360128462850,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1062001359710142466,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1062001359982772225,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1062001360137961473,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      },
+      {
+        "id": 1062001360280567810,
+        "type": 2,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "rewards": 5555,
+        "time": "2018-11-12 00:00:00",
+        "status": "未领取"
+      }
+    ],
+    "total": 146,
+    "size": 10,
+    "current": 1,
+    "pages": 15
+  }
+}

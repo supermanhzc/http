@@ -1,0 +1,102 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1061975419567210497,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975419852423169,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975419999223810,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420141830145,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420280242177,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420427042817,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420569649154,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420703866882,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420846473218,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1061975420984885249,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "loss": 50000.0,
+        "rabate": 10000.0,
+        "time": "2018-11-12 00:00:00",
+        "status": 1
+      }
+    ],
+    "total": 110,
+    "size": 10,
+    "current": 1,
+    "pages": 11
+  }
+}

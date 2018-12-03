@@ -1,0 +1,147 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1062340738148212737,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340738441814017,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340738597003266,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340738747998210,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340738898993154,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340739049988097,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340739205177346,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340739356172289,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340739502972930,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1062340739649773569,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-13 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1066245278549852161,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-24 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1066245278621155330,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-24 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1066245278633738242,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-24 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1066245278646321154,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-24 00:00:00",
+        "status": 1
+      },
+      {
+        "id": 1066245278684069890,
+        "memberId": 300001,
+        "memberNickName": "会员1",
+        "effectiveFlow": 10000.0,
+        "wage": 1000.0,
+        "date": "2018-11-24 00:00:00",
+        "status": 1
+      }
+    ],
+    "total": 70,
+    "size": 15,
+    "current": 1,
+    "pages": 5
+  }
+}

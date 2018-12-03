@@ -1,0 +1,112 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1062143661996822530,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143662336561153,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143662474973186,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143662617579522,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143662751797250,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143662886014977,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143663024427010,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143663154450434,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143663280279553,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      },
+      {
+        "id": 1062143663414497281,
+        "type": 3,
+        "memberId": 300002,
+        "memberNickName": "admin",
+        "status": 1,
+        "ip": "181.1.1.200",
+        "addr": "江苏省南京市",
+        "time": "2018-11-13 08:42:37"
+      }
+    ],
+    "total": 252,
+    "size": 10,
+    "current": 1,
+    "pages": 26
+  }
+}
