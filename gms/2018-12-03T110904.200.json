@@ -1,0 +1,67 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1069609413184061441,
+        "proxyId": 3,
+        "proxyName": "胡正超",
+        "memberId": 3,
+        "memberNickName": "昵称",
+        "amount": 1002,
+        "time": "2018-12-03 23:08:51",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1069608684004327426,
+        "proxyId": 3,
+        "proxyName": "胡正超",
+        "memberId": 3,
+        "memberNickName": "昵称",
+        "amount": 1002,
+        "time": "2018-12-03 23:05:57",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1069607787035635714,
+        "proxyId": 3,
+        "proxyName": "胡正超",
+        "memberId": 3,
+        "memberNickName": "昵称",
+        "amount": 1002,
+        "time": "2018-12-03 23:02:23",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1069606969536487426,
+        "proxyId": 3,
+        "proxyName": "胡正超",
+        "memberId": 3,
+        "memberNickName": "昵称",
+        "amount": 1002,
+        "time": "2018-12-03 22:59:08",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1069605638918742017,
+        "proxyId": 3,
+        "proxyName": "胡正超",
+        "memberId": 3,
+        "memberNickName": "昵称",
+        "amount": 1002,
+        "time": "2018-12-03 22:53:51",
+        "status": 1,
+        "withdraw": 0
+      }
+    ],
+    "total": 28,
+    "size": 5,
+    "current": 1,
+    "pages": 6
+  }
+}

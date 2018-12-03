@@ -1,0 +1,122 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "records": [
+      {
+        "id": 1062879528918999042,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062881245257535490,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062892783901163522,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062900596933189633,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062925210451210242,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062927781589020674,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062929779096924162,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062939115034537986,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      },
+      {
+        "id": 1062941694464471041,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 2,
+        "withdraw": 0
+      },
+      {
+        "id": 1062963681953857538,
+        "proxyId": 300001,
+        "proxyName": "代理1",
+        "memberId": 300003,
+        "memberNickName": "会员1",
+        "amount": 500,
+        "time": "2018-12-01 18:45:24",
+        "status": 1,
+        "withdraw": 0
+      }
+    ],
+    "total": 28,
+    "size": 10,
+    "current": 1,
+    "pages": 3
+  }
+}

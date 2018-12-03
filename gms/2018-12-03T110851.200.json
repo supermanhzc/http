@@ -1,0 +1,15 @@
+{
+  "code": "1",
+  "msg": "成功",
+  "data": {
+    "id": 1069609413184061441,
+    "proxyId": 3,
+    "proxyName": "胡正超",
+    "memberId": 3,
+    "memberNickName": "昵称",
+    "amount": 1002,
+    "time": "2018-12-03 23:08:51",
+    "status": 1,
+    "withdraw": 0
+  }
+}

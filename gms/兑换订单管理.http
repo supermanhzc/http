@@ -4,10 +4,16 @@ Accept: */*
 Content-Type: application/json
 
 {
-  "username":"hzc",
+  "userName":"hzc",
   "password":"hzcsb"
 }
 
+<> 2018-11-29T102241.200.json
+<> 2018-11-29T101304.200.json
+<> 2018-11-29T101057.200.json
+<> 2018-11-29T100853.200.json
+<> 2018-11-29T100515.200.json
+<> 2018-11-29T100346.200.json
 <> 2018-11-29T094051.200.json
 <> 2018-11-26T034737.200.json
 
@@ -37,9 +43,13 @@ Content-Type: application/json
 POST http://127.0.0.1:8081/gms/peizemgnt/excharge/order/create
 Accept: */*
 Content-Type: application/json
-Token: b605a746-da74-42a9-932b-46e5d87a852d
+Token: b4c3877d-4ec1-4a30-9823-adcb38efef70
 
 {
   "prizeName":"20元充值卡",
   "exchangeNum":15
 }
+
+<> 2018-11-29T100526.200.json
+
+###
