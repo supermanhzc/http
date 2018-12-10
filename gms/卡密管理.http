@@ -4,7 +4,7 @@ Accept: */*
 Content-Type: application/json
 
 {
-  "username":"hzc",
+  "userName":"hzc",
   "password":"hzcsb"
 }
 
@@ -25,7 +25,7 @@ Content-Type: application/json
 POST http://127.0.0.1:8081/gms/cardpwdmgnt/retrieve
 Accept: */*
 Content-Type: application/json
-Token: 96bb2c5c-08c9-47f7-8596-3a23ebfe6aa4
+Token: 988c2356-2c08-4fcd-881f-5496a92fbe9b
 
 {   "pageIndex":1,   "pageSize":15}
 
@@ -218,7 +218,7 @@ Token: 080d71b4-a6fc-4146-a0d4-ab37ca313db2
 DELETE http://127.0.0.1:8081/gms/cardpwdmgnt/delete/10y09524877
 Accept: */*
 Content-Type: application/json
-Token: d2ee2917-bc00-4722-9a47-d8afe91409f7
+Token: fef4316c-58a2-4b3c-be5c-91379b361235
 
 {
 "cardid":"10y09524877"

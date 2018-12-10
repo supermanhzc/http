@@ -4,7 +4,7 @@ Accept: */*
 Content-Type: application/json
 
 {
-	"username":"hzc",
+	"userName":"hzc",
 	"password":"hzcsb"
 }
 
@@ -56,10 +56,17 @@ Token: f95cddf5-b8aa-4c76-ab85-1ed1a29c2e98
 GET http://127.0.0.1:8081/gms/contentmgnt/cooperatbusiness
 Accept: */*
 Content-Type: application/json
-Token: f95cddf5-b8aa-4c76-ab85-1ed1a29c2e98
+Token: e5cc8b5c-b1d7-4a76-a514-3f014b3ed7e8
 
 <> 2018-11-26T041839.200.json
 
+###删除合作商家
+DELETE http://127.0.0.1:8081/gms/contentmgnt/cooperatbusiness/11
+Accept: */*
+Content-Type: application/json
+Token: e5cc8b5c-b1d7-4a76-a514-3f014b3ed7e8
+
 ###
+
 
 
